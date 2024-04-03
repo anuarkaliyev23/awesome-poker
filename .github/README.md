@@ -97,6 +97,9 @@ Host environments similar to online playing plateforms, often without gui. They 
   ![C Language][c-badge]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
+- [Goker](https://github.com/anuarkaliyev23/goker) - Hand evaluator for different poker games written in Go
+  ![Go Language][go-badge]
+  ![Open Source Love][open-source-badge]
 - [Poker-Eval](https://www.codeproject.com/Articles/12279/Fast-Texas-Holdem-Hand-Evaluation-and-Analysis) - Fast hand evaluator.
   ![NLHM][nlhm-badge]
   ![C Language][c-badge]
@@ -282,6 +285,7 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 [lua-badge]: https://img.shields.io/badge/-Lua-blue.svg?style=flat&logo=lua&colorA=grey
 [open-source-badge]: https://img.shields.io/badge/-OS-red.svg?style=flat&logo=github&colorA=grey
 [python-badge]: https://img.shields.io/badge/-Py-blue.svg?style=flat&logo=python&colorA=grey
+[go-badge]: https://img.shields.io/badge/-Go-blue.svg?style=flat&logo=Go&colorA=grey
 
 [leduchm-badge]: https://img.shields.io/badge/-Leduc-green.svg?style=flat&colorA=grey&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyOTYuNDczIDI5Ni40NzMiPjxwYXRoIGQ9Ik0xNDguMjM3IDBDNjYuMzY4IDAgLjAwMSA2Ni4zNjcuMDAxIDE0OC4yMzZzNjYuMzY3IDE0OC4yMzYgMTQ4LjIzNiAxNDguMjM2YzgxLjg2NyAwIDE0OC4yMzQtNjYuMzY3IDE0OC4yMzQtMTQ4LjIzNlMyMzAuMTA1IDAgMTQ4LjIzNyAwem0zNi43MjEgMTk5LjkyOWMtMTAuNjYzIDAtMjAuMzgtNC4wMTItMjcuNzU3LTEwLjU5My41NDggMTMuNjggMi4zNTcgMzIuMDM4IDcuODY4IDQxLjloLTMzLjY2NmM1LjUxMS05Ljg2MSA3LjMyLTI4LjIxOSA3Ljg2Ny00MS44OTctNy4zNzcgNi41NzktMTcuMDkzIDEwLjU5LTI3Ljc1NiAxMC41OS0yMy4wNTUgMC00MS43NDQtMTguNjktNDEuNzQ0LTQxLjc0NiAwLTIxLjY4NSAxNi41MzMtMzkuNTAyIDM3LjY4MS00MS41NDVhNDEuODY1IDQxLjg2NSAwIDAgMS0xLjAxOS05LjE1YzAtMjMuMDU2IDE4LjY4OS00MS43NDUgNDEuNzQ2LTQxLjc0NSAyMy4wNTUgMCA0MS43NDQgMTguNjg5IDQxLjc0NCA0MS43NDUgMCAzLjE0Mi0uMzU4IDYuMTk4LTEuMDE3IDkuMTQyIDIxLjIwMiAxLjk5IDM3Ljc5NiAxOS44MyAzNy43OTYgNDEuNTU0LjAwMSAyMy4wNTQtMTguNjg4IDQxLjc0NS00MS43NDMgNDEuNzQ1eiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==
 [lhm-badge]: https://img.shields.io/badge/-LHM-green.svg?style=flat&colorA=grey&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyOTYuNDczIDI5Ni40NzMiPjxwYXRoIGQ9Ik0xNDguMjM3IDBDNjYuMzY4IDAgLjAwMSA2Ni4zNjcuMDAxIDE0OC4yMzZzNjYuMzY3IDE0OC4yMzYgMTQ4LjIzNiAxNDguMjM2YzgxLjg2NyAwIDE0OC4yMzQtNjYuMzY3IDE0OC4yMzQtMTQ4LjIzNlMyMzAuMTA1IDAgMTQ4LjIzNyAwem0zNi43MjEgMTk5LjkyOWMtMTAuNjYzIDAtMjAuMzgtNC4wMTItMjcuNzU3LTEwLjU5My41NDggMTMuNjggMi4zNTcgMzIuMDM4IDcuODY4IDQxLjloLTMzLjY2NmM1LjUxMS05Ljg2MSA3LjMyLTI4LjIxOSA3Ljg2Ny00MS44OTctNy4zNzcgNi41NzktMTcuMDkzIDEwLjU5LTI3Ljc1NiAxMC41OS0yMy4wNTUgMC00MS43NDQtMTguNjktNDEuNzQ0LTQxLjc0NiAwLTIxLjY4NSAxNi41MzMtMzkuNTAyIDM3LjY4MS00MS41NDVhNDEuODY1IDQxLjg2NSAwIDAgMS0xLjAxOS05LjE1YzAtMjMuMDU2IDE4LjY4OS00MS43NDUgNDEuNzQ2LTQxLjc0NSAyMy4wNTUgMCA0MS43NDQgMTguNjg5IDQxLjc0NCA0MS43NDUgMCAzLjE0Mi0uMzU4IDYuMTk4LTEuMDE3IDkuMTQyIDIxLjIwMiAxLjk5IDM3Ljc5NiAxOS44MyAzNy43OTYgNDEuNTU0LjAwMSAyMy4wNTQtMTguNjg4IDQxLjc0NS00MS43NDMgNDEuNzQ1eiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==
